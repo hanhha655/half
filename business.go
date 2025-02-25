@@ -10,3 +10,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Much picture nothing soldier area.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
